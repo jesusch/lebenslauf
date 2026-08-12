@@ -1,7 +1,7 @@
 # Björn Boschman
 
 **CTO & Founder | Cloud Architect**  
-São Paulo, Brazil · +55 11 98908 6448 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
+São Paulo, Brazil · +49 175 8533351 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
 
 ---
 
@@ -29,8 +29,7 @@ CTO and Founder of adm.doctor S.A., shipping a live Amazon Web Services (AWS) he
 - Hardened production payout and reconciliation flows (ops visibility, retry tooling, integrity checks) in a regulated fintech context.
 
 ### Cloud Architect — Innovid
-**08/2018 – 11/2025** · Munich / Edinburgh / São Paulo · Advertising technology  
-*(parallel with adm.doctor from 06/2023)*
+**08/2018 – 11/2025** · Munich / Edinburgh / São Paulo · Advertising technology
 
 - Operated multi-account AWS and Kubernetes peaking at ~1000 nodes for a self-built pipeline orchestrator (scale varies with workload); chose a custom orchestrator over off-the-shelf tools for cost/scale control and customer requirements.
 - Delivered serverless micro-APIs (FastAPI + Lambda) for product teams; ran data pipelines (Spark, Argo, dbt) with CI/CD (GitLab, TeamCity).

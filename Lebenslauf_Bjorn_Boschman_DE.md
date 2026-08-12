@@ -1,7 +1,7 @@
 # Björn Boschman
 
 **CTO & Gründer | Cloud-Architekt**  
-São Paulo, Brasilien · Staatsangehörigkeit: deutsch · +55 11 98908 6448 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
+São Paulo, Brasilien · Staatsangehörigkeit: deutsch · +49 175 8533351 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
 
 ---
 
@@ -29,8 +29,7 @@ CTO und Gründer der adm.doctor S.A.; live Amazon Web Services (AWS)-Plattform f
 - Härtung von Production-Payout- und Reconciliation-Flows (Ops-Sichtbarkeit, Retry-Werkzeuge, Integritätsprüfungen) im regulierten Fintech-Kontext.
 
 ### Cloud-Architekt — Innovid
-**08/2018 – 11/2025** · München / Edinburgh / São Paulo · Advertising Technology  
-*(parallel zu adm.doctor ab 06/2023)*
+**08/2018 – 11/2025** · München / Edinburgh / São Paulo · Advertising Technology
 
 - Betrieb von Multi-Account-AWS und Kubernetes mit Peak von ~1000 Nodes für einen selbst gebauten Pipeline-Orchestrator (Skalierung lastabhängig); Entscheidung gegen reine Off-the-Shelf-Tools zugunsten von Kosten-/Skalierungskontrolle und Kundenanforderungen.
 - Serverless Micro-APIs (FastAPI + Lambda) für Produktteams; Datenpipelines (Spark, Argo, dbt) mit CI/CD (GitLab, TeamCity).

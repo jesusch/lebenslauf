@@ -7,7 +7,7 @@ São Paulo, Brazil · +55 11 98908 6448 · bjoern@boschman.de · [linkedin.com/i
 
 ## Profile
 
-CTO and Founder of adm.doctor S.A., shipping a live Amazon Web Services (AWS) platform for healthcare payments. Parallel Cloud Architect at Innovid (AdTech) through late 2025. Strengths: multi-account AWS, large-scale Kubernetes, serverless APIs, data pipelines, FinOps, and production reliability for fintech and high-traffic systems. German native; English C1 (self-assessed); based in São Paulo with work history across Germany, the UK, and Brazil.
+CTO and Founder of adm.doctor S.A., shipping a live Amazon Web Services (AWS) healthcare-payments platform with hundreds of paying customers. Previously Cloud Architect at Innovid (AdTech) through late 2025 — Kubernetes peaking at ~1000 nodes and FinOps including ~USD 30k/month lasting S3 savings. Strengths: multi-account AWS, serverless APIs, data pipelines, and production reliability for fintech and high-traffic systems. German native; English C1; based in São Paulo with work history across Germany, the UK, and Brazil.
 
 ## Core skills
 
@@ -23,7 +23,7 @@ CTO and Founder of adm.doctor S.A., shipping a live Amazon Web Services (AWS) pl
 **06/2023 – present** · São Paulo · Fintech / healthcare payments
 
 - Founded the company and own product roadmap, delivery, and AWS/cloud budget for a multi-service platform serving hundreds of paying medical customers (e-invoicing, instant payments, digital wallets, contracts).
-- Lead a small engineering team (2–5); designed and built the central billing and payments API from scratch (FastAPI on AWS Lambda, DynamoDB, Cognito, S3, EventBridge), starting mid-2023.
+- Led a small engineering team (2–5); designed and built the central billing and payments API from scratch (FastAPI on AWS Lambda, DynamoDB, Cognito, S3, EventBridge), starting mid-2023.
 - Built supporting services (document/file processing, bank/provider integrations, messaging), infrastructure as code (Pulumi), and web/mobile clients into one product platform.
 - Rolled out multi-account environments (dev/int/stg/prd) with release gates and live end-to-end checks for money-critical paths.
 - Hardened production payout and reconciliation flows (ops visibility, retry tooling, integrity checks) in a regulated fintech context.
@@ -76,8 +76,8 @@ System integration, system test leadership, release/test management, and platfor
 ## Languages
 
 - German — native (C2)
-- English — C1 (self-assessed)
-- Portuguese — A2 (self-assessed)
+- English — C1
+- Portuguese — A2
 
 ---
 

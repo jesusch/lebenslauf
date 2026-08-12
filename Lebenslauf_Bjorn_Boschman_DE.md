@@ -1,16 +1,17 @@
 # Björn Boschman
 
-**CTO & Gründer | Cloud-Architekt**  
+**CTO & Gründer | Cloud-Architekt | Applied AI**  
 São Paulo, Brasilien · Staatsangehörigkeit: deutsch · +49 175 8533351 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
 
 ---
 
 ## Profil
 
-CTO und Gründer der adm.doctor S.A.; live Amazon Web Services (AWS)-Plattform für Healthcare-Payments mit Hunderten zahlender Kunden. Zuvor Cloud-Architekt bei Innovid (AdTech) bis Ende 2025 — Kubernetes mit Peak von ~1000 Nodes und FinOps inkl. dauerhafter S3-Einsparungen von ca. USD 30k/Monat. Schwerpunkte: Multi-Account-AWS, Serverless-APIs, Datenpipelines und Produktionsstabilität für Fintech- und High-Traffic-Systeme. Deutsch Muttersprache; Englisch C1; Standort São Paulo, Stationen in Deutschland, UK und Brasilien.
+CTO und Gründer der adm.doctor S.A.; produktive LLM-Features (Google Gemini) für Dokumentverständnis und strukturierte Extraktion auf einer live AWS-Healthcare-Payments-Plattform mit Hunderten zahlender Kunden. Zuvor Cloud-Architekt bei Innovid (AdTech) bis Ende 2025 — Kubernetes mit Peak von ~1000 Nodes und FinOps inkl. dauerhafter S3-Einsparungen von ca. USD 30k/Monat. Schwerpunkte: Applied GenAI im Produkt, Multi-Account-AWS, Serverless-APIs, Datenpipelines und Produktionsstabilität für Fintech- und High-Traffic-Systeme. Deutsch Muttersprache; Englisch C1; Standort São Paulo, Stationen in Deutschland, UK und Brasilien.
 
 ## Kernkompetenzen
 
+- **AI / LLM:** Google Gemini API (inkl. Gemini 2.5 Flash); Prompt Engineering; Structured Outputs; Dokument-/PDF-Verständnis; Information Extraction; LLM-Klassifikation mit Heuristik-Fallbacks; produktives Error-/Quota-Handling auf Serverless
 - **Cloud & FinOps:** Amazon Web Services (Multi-Account, VPC, EC2, S3, Lambda, Cognito, EventBridge), Kostenoptimierung; Azure (eingeführt)
 - **Plattformen:** Kubernetes in Scale, Serverless (FastAPI + Lambda), Linux
 - **Daten:** Spark, dbt, Argo, S3 Data Lakes, DynamoDB
@@ -22,8 +23,10 @@ CTO und Gründer der adm.doctor S.A.; live Amazon Web Services (AWS)-Plattform f
 ### CTO & Gründer — adm.doctor S.A.
 **06/2023 – heute** · São Paulo · Fintech / Healthcare-Payments
 
-- Gründung des Unternehmens; Verantwortung für Product-Roadmap, Delivery sowie AWS-/Cloud-Budget für eine Multi-Service-Plattform mit Hunderten zahlender Medizin-Kunden (E-Invoicing, Echtzeitzahlungen, digitale Wallets, Verträge).
-- Leitung eines kleinen Engineering-Teams (2–5); Konzeption und Aufbau der zentralen Abrechnungs- und Zahlungs-API von Grund auf (FastAPI auf AWS Lambda, DynamoDB, Cognito, S3, EventBridge), ab Mitte 2023.
+- Gründung des Unternehmens; Verantwortung für Product-Roadmap (inkl. AI-Features), Delivery sowie AWS-/Cloud-Budget für eine Multi-Service-Plattform mit Hunderten zahlender Medizin-Kunden (E-Invoicing, Echtzeitzahlungen, digitale Wallets, Verträge).
+- Leitung eines Engineering-Teams mit 3 Personen; Konzeption und Aufbau der zentralen Abrechnungs- und Zahlungs-API von Grund auf (FastAPI auf AWS Lambda, DynamoDB, Cognito, S3, EventBridge), ab Mitte 2023.
+- Konzeption einer produktiven PDF→Strukturierte-Rechnung-Pipeline auf Google Gemini mit prompted Structured Outputs — medizinische Dokumente werden zu verwertbaren Abrechnungsdaten.
+- Hybrid-Fachklassifikation (deterministische Heuristiken zuerst, Gemini als Fallback) sowie Freitext-Extraktion von Verfahrensteams — mit quotensicherem Fehlerverhalten, damit Rechnungsflows auch ohne Modell verfügbar bleiben.
 - Aufbau unterstützender Dienste (Dokument-/Dateiverarbeitung, Bank-/Provider-Integrationen, Messaging), Infrastructure as Code (Pulumi) sowie Web-/Mobile-Clients zu einer Produktplattform.
 - Einführung von Multi-Account-Umgebungen (dev/int/stg/prd) mit Release-Gates und Live-E2E-Checks für geldkritische Pfade.
 - Härtung von Production-Payout- und Reconciliation-Flows (Ops-Sichtbarkeit, Retry-Werkzeuge, Integritätsprüfungen) im regulierten Fintech-Kontext.

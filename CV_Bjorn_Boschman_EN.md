@@ -1,16 +1,17 @@
 # Björn Boschman
 
-**CTO & Founder | Cloud Architect**  
+**CTO & Founder | Cloud Architect | Applied AI**  
 São Paulo, Brazil · +49 175 8533351 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
 
 ---
 
 ## Profile
 
-CTO and Founder of adm.doctor S.A., shipping a live Amazon Web Services (AWS) healthcare-payments platform with hundreds of paying customers. Previously Cloud Architect at Innovid (AdTech) through late 2025 — Kubernetes peaking at ~1000 nodes and FinOps including ~USD 30k/month lasting S3 savings. Strengths: multi-account AWS, serverless APIs, data pipelines, and production reliability for fintech and high-traffic systems. German native; English C1; based in São Paulo with work history across Germany, the UK, and Brazil.
+CTO and Founder of adm.doctor S.A., shipping production LLM features (Google Gemini) for document understanding and structured extraction on a live AWS healthcare-payments platform with hundreds of paying customers. Previously Cloud Architect at Innovid (AdTech) through late 2025 — Kubernetes peaking at ~1000 nodes and FinOps including ~USD 30k/month lasting S3 savings. Strengths: applied GenAI in product, multi-account AWS, serverless APIs, data pipelines, and production reliability for fintech and high-traffic systems. German native; English C1; based in São Paulo with work history across Germany, the UK, and Brazil.
 
 ## Core skills
 
+- **AI / LLM:** Google Gemini API (incl. Gemini 2.5 Flash); prompt engineering; structured outputs; document/PDF understanding; information extraction; LLM classification with heuristic fallbacks; production error/quota handling on serverless
 - **Cloud & FinOps:** Amazon Web Services (multi-account, VPC, EC2, S3, Lambda, Cognito, EventBridge), cost optimization; Azure (adopted)
 - **Platforms:** Kubernetes at scale, serverless (FastAPI + Lambda), Linux
 - **Data:** Spark, dbt, Argo, S3 data lakes, DynamoDB
@@ -22,8 +23,10 @@ CTO and Founder of adm.doctor S.A., shipping a live Amazon Web Services (AWS) he
 ### CTO & Founder — adm.doctor S.A.
 **06/2023 – present** · São Paulo · Fintech / healthcare payments
 
-- Founded the company and own product roadmap, delivery, and AWS/cloud budget for a multi-service platform serving hundreds of paying medical customers (e-invoicing, instant payments, digital wallets, contracts).
-- Led a small engineering team (2–5); designed and built the central billing and payments API from scratch (FastAPI on AWS Lambda, DynamoDB, Cognito, S3, EventBridge), starting mid-2023.
+- Founded the company and own product roadmap (including AI features), delivery, and AWS/cloud budget for a multi-service platform serving hundreds of paying medical customers (e-invoicing, instant payments, digital wallets, contracts).
+- Led an engineering team of 3; designed and built the central billing and payments API from scratch (FastAPI on AWS Lambda, DynamoDB, Cognito, S3, EventBridge), starting mid-2023.
+- Designed a production PDF→structured-invoice pipeline on Google Gemini using prompted structured outputs to turn medical documents into actionable billing data.
+- Built hybrid domain classification (deterministic heuristics first, Gemini fallback) and free-text extraction of procedure teams — with quota-safe failures so invoice flows stay reliable when the model is unavailable.
 - Built supporting services (document/file processing, bank/provider integrations, messaging), infrastructure as code (Pulumi), and web/mobile clients into one product platform.
 - Rolled out multi-account environments (dev/int/stg/prd) with release gates and live end-to-end checks for money-critical paths.
 - Hardened production payout and reconciliation flows (ops visibility, retry tooling, integrity checks) in a regulated fintech context.

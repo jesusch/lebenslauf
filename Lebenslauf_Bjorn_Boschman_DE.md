@@ -11,7 +11,7 @@ CTO und Gründer der adm.doctor S.A.; Aufbau einer serverless AWS-Plattform für
 
 ## Kernkompetenzen
 
-- **Cloud & Infrastruktur:** AWS (Multi-Account, VPC, EC2, S3, Lambda, Cognito, EventBridge), Kostenoptimierung; Azure (Einführung)
+- **Cloud & Infrastruktur:** AWS (Multi-Account, VPC, EC2, S3, Lambda, Cognito, EventBridge), Kostenoptimierung; Azure (eingeführt)
 - **Plattformen:** Kubernetes in Scale, Serverless (FastAPI + Lambda), Linux
 - **Daten:** Spark, dbt, Argo, S3 Data Lakes, DynamoDB
 - **Automation & Delivery:** Ansible, Puppet (Legacy), CI/CD (GitLab, TeamCity, Jenkins, GitHub Actions), Pulumi IaC
@@ -20,10 +20,10 @@ CTO und Gründer der adm.doctor S.A.; Aufbau einer serverless AWS-Plattform für
 ## Berufserfahrung
 
 ### CTO & Gründer — adm.doctor S.A.
-**06/2023 – heute** · São Paulo · Fintech / Gesundheitsabrechnung (Brasilien)
+**06/2023 – heute** · São Paulo · Fintech / Healthcare-Payments
 
-- Gründung und technische Leitung einer Multi-Service-AWS-Plattform für brasilianische Mediziner (NFSe, PIX-Zahlungen, Wallets, Verträge).
-- Greenfield-Architektur der Kern-APIs mit FastAPI + AWS Lambda, DynamoDB, Cognito, S3 und EventBridge; Hauptverantwortung für `core-api` ab dem ersten Commit (07/2023).
+- Gründung und technische Leitung einer Multi-Service-AWS-Plattform für Mediziner (E-Invoicing, Echtzeitzahlungen, digitale Wallets, Verträge).
+- Konzeption und Aufbau der zentralen Abrechnungs- und Zahlungs-API von Grund auf (FastAPI auf AWS Lambda, DynamoDB, Cognito, S3, EventBridge), ab Mitte 2023.
 - Aufbau gemeinsamer Infrastruktur und Satellitendienste (File-/Extract-/Callback-APIs, Messaging, Pulumi-Stacks, Web- und Mobile-Clients) zu einer kohärenten Produktplattform.
 - Cross-Repo-Platform-Engineering: Environment-Registry, Multi-Account-Topologie (dev/int/stg/prd), Release-Gates und Live-E2E-Verifikation für geldkritische Pfade.
 - Härtung von Production-Payout- und Reconciliation-Flows (Ops-Sichtbarkeit, Retry/Requeue-Werkzeuge, Integritätsprüfungen) im Fintech-Kontext.

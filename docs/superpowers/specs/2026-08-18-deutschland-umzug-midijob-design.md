@@ -23,7 +23,7 @@ In den ersten 6–12 Monaten in Deutschland:
 - Tech-Vollzeit (Cloud/DevSecOps/BWI) als Plan A. Bleibt optionale spätere Spur, steuert Wohnort, Jobwahl und Tagesrhythmus nicht.
 - Mini-Job (keine KV).
 - Gig-Arbeit (Amazon Flex, Uber, E-Scooter, Solo-Selbstständigkeit).
-- Lager/Amazon/klassische Paket-Zustellung als Default.
+- Amazon-FC / klassische Paket-Zustellung als Default (Produktion/Band mit Midi-Vormittag ist erlaubt).
 - Nachmittags-/Abendjobs (Hort, Museum ab 10, Kino, Escape-Room, Spätschicht), weil sie in der Brasilien-Overlap liegen.
 - Auto anschaffen.
 - Lebenshaltung auf 2.500–3.300 € halten.
@@ -40,7 +40,7 @@ In den ersten 6–12 Monaten in Deutschland:
 | Firma | Nur Gesellschafter; keine Rolle im Gesellschaftsvertrag (oder Vertrag so bereinigen, dass keine Organ-/Geschäftsführerfunktion bleibt). Team führt operativ. |
 | Geldfluss Firma | Dividende, kein Geschäftsführer-Gehalt |
 | Job-Rhythmus | Früh in DE, damit BR-Bürozeit (9–18 BRT = 13/14–22/23 MEZ/MESZ) frei bleibt |
-| Job-Art | Mix: zuerst Menschen am Morgen, Fallback Dasein am Morgen; kein Lager |
+| Job-Art | Viele Branchen, solange Frühfenster + Midi. Menschen, Dasein **und** Produktion/Band; kein Amazon-Default |
 | KV | K1 anstreben (Pflicht über Midi-Job), schriftliche Bestätigung der Kasse |
 | Puffer | >12 Monate; Kaution und Anlauf sind kein Engpass |
 
@@ -131,84 +131,60 @@ Filter für **jede** Anzeige, sonst landet der Job in der BR-Overlap oder unter 
 
 Stundenlohn → Midi-Fenster (ca. 4,33 Wochen/Monat): 13,90 € × 20 Std ≈ 1.200 €; 15,50 € × 20 ≈ 1.340 €; 17,50 € × 20 ≈ 1.520 €; 20 € × 20 ≈ 1.730 €; 20 € × 23 Std ≈ 1.990 € (knapp unter der Midi-Decke).
 
-Suche: Indeed/Stepstone Filter Teilzeit + „Vormittag“ / „Frühschicht“; Arbeitgeber-Karriereseiten direkt; Agentur für Arbeit München; Aushang Praxen/Hotels. Keywords: `Teilzeit Vormittag`, `Frühstück`, `Alltagsbegleitung`, `Betreuungskraft`, `Küchenhilfe`, `Empfang Praxis`, `Hauswirtschaft`, `Servicehilfskraft Mensa`.
+Kanal: Indeed/Stepstone (`Teilzeit` + `Vormittag` / `Frühschicht` / `Produktionshelfer`); Agentur für Arbeit; **Zeitarbeit** (Adecco, Randstad, Hofmann, Franz & Wach, Orizon, Formel Zeitarbeit) mit einem Satz: „20 Std, 6:00–12:00, Produktion oder Verpackung, sozialversicherungspflichtig“. Direkt: Hotelketten, Pflegedienste, Studierendenwerk, Kliniken, Stadt/SWM.
 
-### 8.1 Cluster A — zuerst (Menschen, Morgen)
+### 8.1 Fließband / Produktion — ja, aber selten im Midi-Schnitt
 
-**1. Alltagsbegleitung / Senioren-Morgenhilfe (höchste Trefferquote, oft bester Lohn)**  
-Aufstehen, Frühstück, Anziehen, kurze Hauswirtschaft, Arztweg nur wenn vor 12:00. Typisch 6:00–11:00, Einsätze 2–4 Std, 15–25 Std/Woche kombinierbar.  
-Pay: Anzeigen München 2026 ca. **17,50–20 €/h** (Home Instead um 20,01 €; Alltagshelfer um 17,50 €). 20 Std bleiben im Midi.  
-Einstieg: viele Dienste nehmen Quereinsteiger und schulen intern. Stationäre „Betreuungskraft § 53b SGB XI“ will oft den Kurs (ca. 160 UE + Praktikum, 6–16 Wochen, ~1.050–1.350 €, teils Bildungsgutschein). Für den Start **ambulante Alltagsbegleitung ohne Kurs** priorisieren; § 53b nur wenn der Arbeitgeber bezahlt oder der Job sonst nicht kommt.  
-Arbeitgeber: Home Instead München-Zentrum (Graf&Trepte), Senioren und Alltagshilfe München, Caritas, AWO, Diakonie, BRK, Malteser, Johanniter, Münchenstift (eher Tarif/TVöD, oft 30 Std — auf 20 Std runterhandeln), private Pflegedienste.  
-Risiko: Touren rutschen in den Nachmittag; Körperpflege kann kommen. Vertrag: Morgenfenster, keine Einsätze nach 13:00.
+Das Band ist eine eigene Branche, kein Amazon-Ersatz. In München gibt es sie.
 
-**2. Hotel-Frühstück / Morning-Service**  
-Schicht oft 5:30–11:00 oder 6:00–11:30: Buffet aufbauen, Service, Abräumen. 4–6 Std, 4–5 Tage → Midi. Quereinstieg üblich, Deutsch + Englisch hilft. Pay oft 14–16 € plus Trinkgeld.  
-Arbeitgeber: Motel One, Premier Inn, Holiday Inn, 25hours, NH, Leonardo, Stadthotels entlang S-Bahn. Mehrere Häuser am Hbf/Ostbahnhof = kurzer Weg.  
-Risiko: Wochenende; Springer in den Lunch. Samstagfrüh ist für BR unkritisch, Sonntag verhandelbar. Kein Empfang 15–23 Uhr.
+**Was der Markt wirklich ist:** BMW Stammwerk, MAN, Siemens Mobility Allach suchen laufend Montage/Produktionshelfer, oft über Zeitarbeit. Lohn 2026 grob **18,70–19,30 €** Einstieg, später höher. Quereinstieg üblich. Standard ist **Vollzeit**, Frühschicht oft **5:45–14:55**, plus Wechselschicht. 8 Std × 5 Tage × 19 € ≈ 3.300 € — **über Midi** und **nach 12:00**. Das ist Plan-A-unfähig.
 
-**3. Seniorenheim- und Klinik-Küche / Speiseversorgung**  
-Frühstück und Mittagsvorbereitung, Ausgabe, Spüle. Start oft 6:00–6:30, Ende vor oder um 12:00 verhandelbar. Hygienebelehrung § 43 Infektionsschutzgesetz (kurz, Arbeitgeber). Pay Tarif oder 14–16 €.  
-Arbeitgeber: Domicil u. a. Seniorencentren (z. B. Haidhausen), Münchenstift, Klinikum rechts der Isar / LMU / Schwabing Speiseversorgung, Caritas-Häuser.  
-Risiko: Manche Pläne gehen bis 14:00 (Mittagessens-Peak). Nur nehmen, wenn Schicht **vor** dem Mittagsrush endet oder der Peak nicht deine Schicht ist.
+**Was davon brauchbar ist:** nur ein schriftliches Modell **18–22 Std, Schichtende ≤12:00** (z. B. 4×5 Std oder 3×6,5 Std). Das gibt es am Auto-Band kaum; eher in **Lebensmittelverpackung, Pharma-Pack, Druck-Weiterverarbeitung, Recycling-Sortierung, Kunststoff/Elektronik-Helfer**. Zeitarbeit gezielt fragen, Inserat „Vollzeit 2-Schicht“ ablehnen. Paulaner-Abfüllung Teilzeit existiert, aktuell eher 1 Tag/Woche oder Fachausbildung — nicht der Default.
 
-**4. Kita- / Schul-Hauswirtschaft und Mensa-Vorbereitung**  
-Frühstück und Mittagessen vorbereiten, nicht die pädagogische Nachmittagsschicht. BRK und städtische Häuser schreiben Hauswirtschaft Teilzeit aus (Beispiel: Kita-Hauswirtschaft ~25 Std — auf 20–22 drücken).  
-Arbeitgeber: BRK Kreisverband München, Stadt München Kita, Caterer in Schulen (Sodexo, Apetito, regional).  
-Risiko: 25–30 Std-Inserate; Nachmittag Hort. Schriftlich: Ende ≤12:00.
+**Pay-Effekt:** Bei 19 €/h reichen **20 Std** für ~1.650 € brutto (Midi, KV). Weniger Stunden als in der Pflege bei gleichem oder besserem Brutto — wenn die Uhrzeiten stimmen.
 
-**5. Studierendenwerk-Mensa (Service/Küche, Mo–Fr, kein Abend)**  
-Studierendenwerk München Oberbayern: Mensen Garching, Pasing, Lothstraße, Arcisstraße, Ottobrunn. Inserate betonen **keine Wochenend- und Abenddienste**, Start im Küchenbereich oft ab 6:00. TV-L, unbefristet, 30 Urlaubstage — strukturell einer der saubersten Arbeitgeber.  
-Risiko: Viele Anzeigen **30 oder ≥35 Std** (über Midi oder knapp). Nur bewerben mit klarem Wunsch **20 Std / Vormittag bis 12:00**. Ottobrunn/Garching nur mit Wohnen an der Linie.
+### 8.2 Branchenkatalog (Früh + Midi)
 
-**6. Arztpraxis / MVZ / Physio / Zahnarzt / Dermatologie-Empfang Vormittag**  
-Öffnung oft 7:30 oder 8:00, Vormittagsschicht bis 12:00/12:30. Quereinstieg häufig, Praxissoftware wird gelernt. Manche Praxen geschlossen am Wochenende.  
-Arbeitgeber: Einzelpraxen, MVZ, Ketten (u. a. Physio, Haut, Zähne) — laufend Inserate „Empfang Teilzeit“.  
-Risiko: Fast alle wollen **auch Nachmittag bis 18/19 Uhr**. Bewerbung nur mit Satz: ausschließlich Vormittag, 18–22 Std. Absage einkalkulieren, Volumen ist groß genug zum Filtern.
+Eine Zeile = eine Branche. Filter aus dem Abschnittskopf gilt überall.
 
-**7. Apotheke Vormittag (Botendienst oder HV-Hilfe)**  
-Botendienst 8:00–12:00 oder Handverkauf/Warenannahme früh. Führerschein nützlich, kein eigenes Auto nötig wenn Dienstfahrrad/Jobrad.  
-Risiko: Boten-Touren dehnen sich; Mini-Verträge. Midi und Ende 12:00 festschreiben.
+| Branche | Typische Früh-Arbeit | Midi-Fit | München / Umland | Falle |
+|---|---|---|---|---|
+| Alltagsbegleitung / ambulante Seniorenhilfe | Aufstehen, Frühstück, Haushalt 6–11 | Gut; 17,50–20 €/h | Home Instead, Caritas, AWO, Diakonie, BRK, private Dienste | Touren nach 13:00; § 53b-Kurs nur wenn AG zahlt |
+| Hotellerie | Frühstücksbuffet 5:30–11:30 | Gut | Motel One, Premier Inn, Holiday Inn, 25hours, NH | Lunch-Springer, Abend-Rezeption |
+| Gemeinschaftsverpflegung | Heim-/Klinik-/Kita-Küche, Mensa ab 6:00 | Gut, Std. verhandeln | Münchenstift, Domicil, Kliniken, Studierendenwerk, BRK-Kitas | Inserate 30–35 Std; Mittagspeak bis 14:00 |
+| Praxis / MVZ / Apotheke | Empfang oder Botendienst 7:30–12:00 | Mittel (viele wollen Nachmittag) | Physio, Haut, Zähne, MVZ, Apotheken | Pflicht bis 18/19 Uhr |
+| LEH | Frische, Backtheke, Verräumen 6–12 | Gut wenn gekappt | REWE, Edeka, Lidl | Planer schiebt 6–14 oder Mini-Aushilfe |
+| Bäckerei / Metzgerei (Handwerk) | Verkauf oder Produktion früh | Mittel | Backstube Wünsche, Filialbäcker, Metzgereien | 6:00–8:30 = Mini |
+| Sport / Bad | Empfang Öffnung, Kasse, Garderobe | Gut | McFit, High 5, SWM-Bäder (nicht Bademeister) | Split früh+abend |
+| Facility | Housekeeping, Büroreinigung 5–9, Industriewäsche | Mittel | Hotels, Gebäudereiniger, Klinik-Steri | Zu wenig Std/Tag → Mini; Ende 14:00 |
+| Kanzlei / Notar / Steuerberater | Post, Telefon 8–12 | Schmal, ruhig | Kanzleien Stadt | Wenig Inserate |
+| Tankstelle / Kiosk / Post-Filiale | Frühschicht Schalter | Mittel | Aral, Bahnhof, Postfiliale (nicht Zustellung) | Nachtplan; Filiale öffnet oft erst 9:00 |
+| Automotive-Montage (Band) | Takt, Sichtkontrolle, Baugruppen | Schlecht als Vollzeit; nur bei Teilzeit-Vormittag | BMW Werk, MAN, Siemens Allach via Zeitarbeit | 5:45–15:00 und 35–40 Std |
+| Lebensmittelindustrie | Abfüllen, Verpacken, QS, Hygiene | Besser als Auto-Band | Zeitarbeit Lebensmittel, Werke Eching u. a. | 2-/3-Schicht-Pflicht im Inserat |
+| Pharma / Medtech Pack | Blister, Beipack, Reinraum-Helfer | Gut wenn Vormittagsschicht | Umland (Penzberg o. ä.), Packdienstleister | Quali/Reinraum; Schichtrotation |
+| Elektronik / Kunststoff | Bestücken, Spritzguss-Entnahme, Prüfen | Mittel | Zulieferer Umland, Zeitarbeit | Lärm, Stehen, Vollzeit-Default |
+| Metall / einfache Montage | Schrauben, Kommissionieren in Fertigung | Mittel | Siemens-Umfeld, Schlossereien | Oft Fachkraft; sonst Helfer Vollzeit |
+| Brauerei / Getränke | Abfülllinie, Leergut, Reinigung | Schmal | Paulaner Langwied, andere Brauer | Fachausbildung oder 1-Tag-Teilzeit |
+| Druck / Weiterverarbeitung | Falzen, Kuvertieren, Zeitungsstraße früh | Mittel | Druckereien Umland | Nachtschicht Zeitung |
+| Recycling / Sortierung | Band sortieren, Wertstoffe | Mittel | Wertstoffhöfe, Sortieranlagen | Körper, Geruch, oft 8-Std-Schicht |
+| Großmarkt / Foodservice-Lager | Annahme 4–9, Kommission | Mittel | Großmarkthalle, Gastronomie-Großhandel | Sehr früh; nicht Amazon-FC |
+| Krankenhaus-Logistik | Patiententransport, Steri, Laborannahme 6–12 | Gut | LMU, r. d. Isar, Schwabing | Tarif kann >22 Std wollen |
+| Blutspende / Dialyse-Service | Aufbau, Empfang, Snacks 7–12 | Mittel | DRK, Dialysezentren | Medizin-Nähe, unregelmäßige Tage |
+| Leitstelle / Callcenter Morgen | 7–12 Tickets, Sachbearbeitung | Gut | Stadtwerke, Versicherer, Dienstleister | Schicht nach 12; Honorarkraft |
+| Stadtgrün / Friedhof / Garten | Gießen, Laub, Gräberpflege früh | Saisonal | Stadt München, Friedhofsgärtnereien | Winterloch; Wetter |
+| Zoo / Tierheim | Fütterung, Reinigung früh | Schmal | Hellabrunn, Tierschutzvereine | Wenig Stellen, oft Vollzeit |
+| KFZ-Aufbereitung / Flotte | Waschen, Umparken Carsharing 6–11 | Mittel | Vermieter, Flottenbetreiber angestellt | Solo-Selbstständig ablehnen |
+| Bestattung | Überführungen, Halle, Büro früh | Schmal | Bestatter Stadt | Rufbereitschaft |
+| Bau / Gerüst Helfer | Baustelle 7–12 | Schlecht | Gewerke Stadt | 8–10 Std Default |
+| SWM / Betriebshof | Fahrzeuge, Anlage, Betrieb | Mittel | Stadtwerke | Langsam; oft 50–100 % |
+| Uni-Labor / Spüle / Medien | Glas, Medien 7–12 | Schmal | LMU, TUM, Helmholtz | Hiwi/Mini-Falle |
 
-**8. Bäckerei- / Café-Verkauf Früh**  
-Backstube Wünsche u. a.: Quereinstieg, Inserate um **14 €/h**, Frühschicht. Filialen überall, Wohnen nah zur Filiale.  
-Risiko: Manche Schichten nur **6:00–8:30** → 12,5 Std/Woche = **Mini**, keine KV. Nur Schichten **≥4 Std** oder Kombination die 18+ Std und >603 € sicher macht. Kein 30-Std-Vertrag.
+### 8.3 Suchreihenfolge (8 Wochen)
 
-**9. LEH Frische / Convenience / Backtheke 6:00–12:00**  
-REWE/Edeka/Lidl: Verräumen, Backwaren, Convenience. Inserate mit Fenster 6:00–14:00 — **bei 12:00 kappen**. Samstagfrüh ok. Pay meist etwas über Mindestlohn, unbefristet üblich.  
-Risiko: Inserat sagt Teilzeit, Planer schiebt Mittag/Abend. Schriftlich: keine Schicht nach 12:00, keine Mini-Auffüll-Aushilfe.
-
-### 8.2 Cluster B — Fallback ab Woche 4 (Dasein, Morgen)
-
-**10. Fitnessstudio-Empfang Öffnung**  
-McFit, Fitness First, High 5, St. Martins, lokale Hallen: 6:00–12:00 Check-in, Handtücher, Störungsannahme. Quereinstieg, ruhiger als Gastro. Pay nahe Mindestlohn–15 €.  
-Risiko: Split-Schicht früh+abend — ablehnen.
-
-**11. Schwimmbad / Sauna Kasse oder Garderobe Früh**  
-SWM-Bäder und private Bäder: Öffnung oft 7:00. Bademeister braucht Qualifikation — **nicht** der Einstieg. Kasse/Garderobe/Kiosk ja.  
-Risiko: Wochenende, Nachmittag. Nur Frühschicht-Vertrag.
-
-**12. Hotel-Housekeeping / Wäsche Morgen**  
-5–6 Std, Start 7:00–8:00, Zimmer bis 12/13 Uhr. Pay 14–16 €, körperlich. Ende 12:00 verhandeln (weniger Zimmer, Teilzeit).  
-Risiko: Quota-Druck, Ende 14:00. Näher an Körperarbeit als A — deshalb B.
-
-**13. Praxis-/Kanzlei-/Notariat-Empfang nur vormittags**  
-Steuerberater, Anwalt, Notar: 8:00–12:00 Telefon und Post. Ruhiger als Klinik, weniger Inserate.
-
-**14. Post-/Paket-Filiale (Schalter), nicht Zustellung**  
-Filiale öffnet oft 9:00 — spät fürs Fenster, nur wenn 9:00–13:00 wirklich auf 12:00 kürzt oder du 9:00–12:00 plus zweite Frühmorgenstelle nicht brauchst. Zustellrunden 6:00–15:00 bleiben draußen.
-
-**15. Tankstelle / Bahnhofskiosk Früh**  
-5:00–12:00, Alleinbesetzung möglich. Pay Mindestlohn-nah. Risiko: Abende und Nächte im Plan.
-
-**16. Industrie-/Hotelwäsche, Sterilisation Klinik**  
-Schicht 6:00–12:00, wenig Kundenkontakt, stabil. Hygienebelehrung.
-
-### 8.3 Cluster C — nur Woche 6–8, wenn A/B nichts Schriftliches haben
-
-Büroreinigung Gewerbe 5:00–9:00 (zu wenige Stunden pro Tag — 5 Tage × 4 Std = 20 Std möglich, aber Mini-Falle wenn 3 Tage). Hausmeister Wohnanlage Morgen. Großmarkt München Warenannahme 4:00–9:00 (sehr früh, Körper). Flughafen-Catering **nicht** Default: Schichten oft bis 13:30/14:30 plus Zuverlässigkeitsüberprüfung Wochen Verzug.
-
-Nach 8 Wochen ohne Vertrag: Abschnitt 11.3 (Leipzig), keine vierte Philosophie, kein Lager-Default, kein Flex/Uber.
+1. Wochen 1–5 parallel, **nicht** nur Pflege: Alltagsbegleitung, Hotel-Frühstück, Gemeinschaftsverpflegung, Praxis-Vormittag, **Zeitarbeit Produktion/Verpackung mit Vormittags-Midi**.
+2. Ab Woche 4: Facility, Sport/Bad, LEH gekappt, Leitstelle, Klinik-Logistik.
+3. Woche 6–8: Recycling, Großmarkt, Reinigung 5–9, Friedhof/Garten — nur wenn 1/2 nichts Schriftliches haben.
+4. Nach 8 Wochen ohne Vertrag: Leipzig (11.3). Kein Flex/Uber, kein BMW-Vollzeit „nur zum Anfangen“.
 
 ### 8.4 Vertragsregeln
 
@@ -220,7 +196,7 @@ Nach 8 Wochen ohne Vertrag: Abschnitt 11.3 (Leipzig), keine vierte Philosophie, 
 
 ### 8.5 Bewusst nicht suchen
 
-Amazon-Lager und -Flex; DHL/Brief-Zustellung als Default; Hort/Ganztag; Museum/Bibliothek ab 10:00; Abendgastro; Theater/Kino/Escape-Room; Scooter/Uber; Flughafen-Vollschicht mit ZÜP als Erstversuch; Bäckerei-Mini mit 2,5-Std-Schicht; Mensa/Studierendenwerk **30+ Std** ungefiltert; Praxis-Empfang mit Pflicht bis 19:00.
+Amazon-FC und -Flex; DHL/Brief-**Zustellung** als Default; Hort/Ganztag; Museum ab 10:00; Abendgastro; Theater/Kino; Scooter/Uber; Flughafen-Vollschicht mit ZÜP als Erstversuch; Bäckerei-Mini 2,5 Std; Mensa **30+ Std** ungefiltert; Praxis bis 19:00; **Automotive-Vollzeit 5:45–15:00** „nur zum Einstieg“. Fließband selbst ist nicht verboten — nur dieses Schichtmaß.
 
 ## 9. Wohnen München
 
@@ -235,7 +211,7 @@ Amazon-Lager und -Flex; DHL/Brief-Zustellung als Default; Hort/Ganztag; Museum/B
 1. Einreise, Anmeldung beim Bürgerbüro.
 2. Krankenkasse: Sachverhalt schriftlich (nur Gesellschafter, keine Organfunktion, Dividende, geplanter Midi-Job).
 3. Steuer-ID / Finanzamt; Steuerberater für Dividende BR→DE beauftragen.
-4. Jobsuche Cluster A (mind. 8 gezielte Bewerbungen in zwei Wochen: Alltagsbegleitung, Hotel-Frühstück, Heim-/Klinik-Küche, Praxis-Vormittag).
+4. Jobsuche über mind. 8 Bewerbungen in zwei Wochen, **mindestens vier Branchen**: Alltagsbegleitung, Hotel-Frühstück, Gemeinschaftsverpflegung, Zeitarbeit Produktion/Verpackung Vormittag.
 5. Midi-Vertrag unterschreiben.
 6. Erst dann WG/Untermiete auf den Schichtweg zuschneiden.
 
@@ -247,7 +223,7 @@ Kapitalpuffer deckt Kaution, erste Mieten, KV-Überbrückung und Möbel/WG-Einla
 
 - Angemeldet, Steuer-ID vorhanden, Krankenkasse hat den Sachverhalt schriftlich.
 - Wohnen: WG oder befristetes Zimmer, warm ≤950 €, Früh-ÖPNV möglich.
-- Midi-Vertrag unterschrieben **oder** drei laufende, zum Rhythmus passende Bewerbungen in Cluster A (ab Woche 4 auch B).
+- Midi-Vertrag unterschrieben **oder** drei laufende Bewerbungen in **mindestens drei Branchen** aus Abschnitt 8 (inkl. Produktion/Verpackung, nicht nur Pflege).
 
 ### 11.2 Erfolg nach 90 Tagen
 
@@ -271,7 +247,7 @@ In Leipzig gilt dasselbe Tagesgerüst und dieselbe Job-Logik, nur mit eigener kl
 | Risiko | Gegenmaßnahme |
 |---|---|
 | Kasse wertet S.A.-Mitarbeiter oder faktische Leitung als Hauptberuf | Vertrag und Alltag deckungsgleich halten; Status schriftlich vor Mietbindung; sonst K2 oder Leipzig |
-| Kein Frühjob in 8 Wochen | A → B → kurzes C; dann Switch; kein Gig, kein Lager-Default |
+| Kein Frühjob in 8 Wochen | Branchenkatalog 8.3; dann Switch; kein Gig, kein BMW-Vollzeit |
 | Dividende schwankt oder stoppt | Stunden Richtung 25 / oberes Midi; Switch Leipzig |
 | Schicht rutscht in den Nachmittag | Vertrag ablehnen oder kündigen; BR-Nachmittag bleibt frei |
 | WG-Kosten >950 € warm | Nicht nehmen; Umland nur mit Frühverkehr |

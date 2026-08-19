@@ -18,4 +18,10 @@ Zeitarbeit-Mailtext:
 Ich suche eine sozialversicherungspflichtige Teilzeit (18–22 Std/Woche) als Produktionshelfer oder in der Verpackung, Schicht 6:00–12:00, nicht Vollzeit, nicht 2-Schicht. Wohnortziel München.
 ```
 
+**Regeln (keine Fake-Bewerbungen):**
+
+1. Acht Bewerbungen innerhalb von zwei Wochen
+2. Jede Bewerbung enthält exakt den Pflichtsatz: *Teilzeit 18–22 Std, ausschließlich Vormittag, Schichtende spätestens 12:00, sozialversicherungspflichtig (kein Mini-Job).*
+3. Jede Bewerbung sofort als Tracker-Zeile eintragen (kein Sonntags-Batch)
+
 **Human: 8 Bewerbungen ausstehend**

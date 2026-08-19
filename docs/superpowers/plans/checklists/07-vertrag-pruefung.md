@@ -8,5 +8,6 @@
 - [ ] Arbeitgeber meldet Sozialversicherung (KV/PV/RV/AV) — nachfragen, schriftlich
 - [ ] Arbeitsweg mit ÖPNV zur ersten Schicht vor 6:00 machbar
 - [ ] KV-Antwort (Task 2) liegt vor **oder** Auffang/freiwillig läuft ohne Lücke, und K2-Beitrag ist in der Monatsrechnung ohne Puffer-Konsum tragbar
+- [ ] Kein Mietvertrag über Zwischenmiete/Übergangszimmer hinaus, bis die schriftliche KV-Antwort vorliegt (Plan: schriftlich vor langfristigem Mietvertrag)
 
 Nein zu einem Punkt = ablehnen oder nachverhandeln, nicht „erstmal anfangen“.

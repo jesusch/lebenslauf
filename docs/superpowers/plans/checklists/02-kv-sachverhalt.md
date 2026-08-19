@@ -1,7 +1,7 @@
 # KV-Sachverhalt
 
 Kasse: [AOK Bayern | Techniker Krankenkasse]
-Gesendet: (offen)
+Gesendet: (offen — Datum / Kanal / Referenz)
 Weg: Mitgliederservice schriftlich (Portal oder Einschreiben), Betreff wie unten.
 
 ---
@@ -19,13 +19,17 @@ ich bin deutscher Staatsangehöriger und ziehe nach München. Ich bitte um eine 
 Sachverhalt:
 
 1. Ich bin Gesellschafter der brasilianischen Aktiengesellschaft adm.doctor S.A. Im Gesellschaftsvertrag ist **keine** Organ-, Geschäftsführer- oder vergleichbare Leitungsfunktion hinterlegt. Ich übe keine operative Leitung aus (kein On-Call, keine Mitarbeiterführung, kein Tagesgeschäft). Das Team vor Ort führt die Gesellschaft.
-2. Persönliche Einnahmen aus der Gesellschaft sind **Dividenden** (Kapitalertrag), kein Arbeitslohn und kein Geschäftsführergehalt. Höhe derzeit ca. R$ 5.000 im Monat.
+   - Beteiligungsquote: [eintragen, Planannahme alleiniger Gesellschafter]
+   - Mitarbeiter der S.A.: [Anzahl eintragen]
+2. Persönliche Einnahmen aus der Gesellschaft sind **Dividenden** (Kapitalertrag), kein Arbeitslohn und kein Geschäftsführergehalt. Höhe derzeit ca. R$ 5.000 im Monat ≈ 830 €.
 3. Ich beabsichtige in München eine **abhängige Beschäftigung** im Übergangsbereich: 18–22 Wochenstunden, regelmäßiges Arbeitsentgelt zwischen 603,01 € und 2.000 €, Arbeitszeit ausschließlich vormittags, Schichtende spätestens 12:00 Uhr.
 
 Bitte teilen Sie schriftlich mit:
 
 - Ob ich mit Aufnahme dieser Beschäftigung versicherungspflichtig nach § 5 Abs. 1 Nr. 1 SGB V bin, und
 - ob Sie eine hauptberuflich selbstständige Tätigkeit nach § 5 Abs. 5 SGB V annehmen, insbesondere wegen der Gesellschafterstellung oder wegen Mitarbeitern der S.A.
+- Wie die Versicherung vom Zeitpunkt der Anmeldung bis zum Jobstart läuft: Auffangversicherung nach § 5 Abs. 1 Nr. 13 SGB V und/oder freiwillige Versicherung nach § 9 SGB V, und ob eine Beitrittsfrist gilt.
+- Falls Sie § 5 Abs. 5 SGB V annehmen: die monatliche Beitragshöhe (KV+PV).
 
 Anlage: Kurzdarstellung Gesellschafter-Status.
 

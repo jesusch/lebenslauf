@@ -3,6 +3,9 @@
 | Datum | Branche | Arbeitgeber | Uhrzeiten laut Inserat | Std/Woche | €/h | Ende≤12? | Midi? | Status | Nächster Schritt |
 |---|---|---|---|---|---|---|---|---|---|
 
+Branche nur Werte aus Spec § 8.2-Katalog.
+Status: `offen` | `gefragt` | `beworben` | `gespräch` | `angebot` | `absage` | `vertrag`
+
 ## Welle 1 (Human)
 
 Vier Pflicht-Branchen (je mindestens eine Bewerbung, dann zweite Runde):

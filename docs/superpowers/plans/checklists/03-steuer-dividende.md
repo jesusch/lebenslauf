@@ -10,5 +10,6 @@ Auftrag an Steuerberater (München, internationales Steuerrecht / Auslandskapita
 - Bankweg: Konto DE für den Eingang; Mitteilungspflicht gegenüber der Bank (Herkunft).
 - Nach Anmeldung: Steuer-ID, Veranlagung vs. Abgeltung, Kirchensteuer ja/nein.
 - Planwert zum Leben: 650–750 € netto/Monat; Abweichung schriftlich schätzen lassen.
+- Zusätzlich prüfen lassen: Hinzurechnungsbesteuerung/AStG, Anzeigepflicht § 138 Abs. 2 AO, Rechtstypenvergleich S.A., Ort der Geschäftsleitung § 10 AO, und ob brasilianische Quellensteuer überhaupt anfällt (sonst kann der Planwert 650–750 € zu hoch sein).
 
 Nicht fragen: ob die Kasse mich als selbstständig führt (das ist Task 2).

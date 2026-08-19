@@ -1,6 +1,7 @@
 # KV-Sachverhalt
 
 Kasse: [AOK Bayern | Techniker Krankenkasse]
+Gesendet: (offen)
 Weg: Mitgliederservice schriftlich (Portal oder Einschreiben), Betreff wie unten.
 
 ---

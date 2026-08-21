@@ -7,7 +7,7 @@ Ziel: Material für 5 Reels + 8–10 Fotos für Canva/Highlights. Handy vertikal
 - [ ] Skripte aus `12-reels-captions.md` ausdrucken oder auf zweitem Gerät (Teleprompter-App ok).
 - [ ] Handy 1080p+, Mikrofon ok (ruhiger Raum), Flugmodus.
 - [ ] Outfit schlicht, Gesicht gut erkennbar.
-- [ ] Platzhalter `[Monat]` im Kopf durch echten Einzugsmonat ersetzen.
+- [x] Einzug im Content: „ab November“ (Skripten in `12` sind gesetzt).
 
 ## Video-Takes (je Stück 2–3 Takes)
 

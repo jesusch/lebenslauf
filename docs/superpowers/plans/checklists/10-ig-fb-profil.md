@@ -1,30 +1,30 @@
 # IG/FB-Profil — Wohnung München
 
-Stand: [Datum]  
+Stand: 2026-08-21  
 Accounts: bestehende private Instagram + Facebook (kein neues Kampagnen-Profil)
 
 ## Instagram Bio (fertigen Text einsetzen)
 
 ```
-Björn · Rückkehr nach München [Monat/Jahr]
+Björn · Rückkehr nach München ab November 2026
 Suche: 2 Zimmer, allein, langfristig
 Reel angepinnt — teilt gerne 🙏
-DM oder WhatsApp: [Link]
+DM oder WhatsApp: wa.me/491758533351
 ```
 
-- Zeile 2–3 anpassen, wenn Link-in-Bio (WhatsApp / Linktree) anders heißt.
+- Link in Bio: denselben `https://wa.me/491758533351` setzen (öffnet WhatsApp).
 - Kein Mietbudget, kein Jobtitel, keine Dividende in der Bio.
 
 ## Link in Bio
 
-- [ ] WhatsApp-Business oder persönlicher wa.me-Link **oder** einfaches Linktree mit: WhatsApp + „Wohnungsmappe auf Anfrage“.
-- [ ] Link getestet (öffnet Chat / Seite).
+- [ ] `https://wa.me/491758533351` als Link in Bio
+- [ ] Link getestet (öffnet Chat)
 
 ## Highlight „Wohnung München“
 
 Reihenfolge der Stories im Highlight (Cover: ruhiges Porträt oder München-Foto, Text „Wohnung“):
 
-1. Suchprofil (2 Zimmer · allein · langfristig · ab [Monat])
+1. Suchprofil (2 Zimmer · allein · langfristig · ab November · nur Stadt)
 2. Hero-Reel oder 15-s-Ausschnitt
 3. „Mappe / Referenzen per DM“
 4. Optional: kurze Lage-Hinweise (nur Stadt München, Früh-ÖPNV — kein Umland)
@@ -41,7 +41,7 @@ Reihenfolge der Stories im Highlight (Cover: ruhiges Porträt oder München-Foto
   3. „Kennt ihr jemanden / teilt das“
   4. „DM — Mappe auf Anfrage“
 - Caption = Netzwerk-Version aus `12-reels-captions.md` (Hero).
-- Erster Kommentar: `München · 2 Zimmer · allein · langfristig · ab [Monat] · DM`
+- Erster Kommentar: `München · 2 Zimmer · allein · langfristig · ab November · DM`
 
 ## Facebook (eigenes Profil)
 

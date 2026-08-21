@@ -6,18 +6,19 @@
 
 # Björn Boschman — Mietinteressent München
 
-**Einzug:** ab [Monat Jahr]  
+**Einzug:** ab November 2026 (genauer Termin nach Flugbuchung)  
 **Gesucht:** 2-Zimmer-Wohnung, allein (Haushaltsgröße 1), langfristig  
 **Lage:** ausschließlich Stadt München (kein Umland, keine Vororte außerhalb der Stadtgrenze). Beispiele Stadtteile: Giesing, Ramersdorf, Neuperlach, Laim, Pasing — andere Stadtteile ok, solange in der Stadt  
-**Haustiere / Rauchen:** [ehrlich einsetzen]  
+**Haustiere / Rauchen:** kein Haustier; Rauchen nur auf dem Balkon  
 **Beruf / Einkommen:** auf Anfrage (Unterlagen, Nachweise, Referenzen)  
 **SCHUFA / Bonität:** auf Anfrage  
 **Bisherige Miete:** Referenzen vorheriger Vermieter auf Anfrage  
 
 **Kontakt:**  
-Telefon / WhatsApp: […]  
-E-Mail: […]  
-Instagram / Facebook: [Handles]
+Telefon / WhatsApp: +49 175 8533351 (`https://wa.me/491758533351`)  
+E-Mail: bjoern@boschman.de  
+Instagram: @bjornboschman  
+Facebook: bjoern.boschman  
 
 Kurz: Zurückkehrender Münchner, ruhig, pfleglich, langfristig orientiert. Besichtigung nach Absprache; vor langfristigem Vertrag: Anmeldung und Versicherungen nach meinem Umzugsplan.
 
@@ -30,7 +31,7 @@ Kurz: Zurückkehrender Münchner, ruhig, pfleglich, langfristig orientiert. Besi
 
 ## Checkliste Versand
 
-- [ ] Platzhalter ausgefüllt
+- [x] Platzhalter ausgefüllt (Stand 2026-08-21)
 - [ ] Als PDF exportiert (Canva oder Markdown→PDF)
 - [ ] Getestet: lesbar auf dem Handy
 - [ ] Vorlage bereit für Copy-Paste in DM

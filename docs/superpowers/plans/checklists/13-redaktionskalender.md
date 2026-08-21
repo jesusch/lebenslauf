@@ -3,8 +3,8 @@
 Bezug: Spec `docs/superpowers/specs/2026-08-21-wohnung-social-kampagne-design.md`  
 Werkzeuge: Meta Business Suite = Feed + Reels. Stories + Facebook-Gruppen = **nativ**.
 
-Einzug (Landung): [Datum eintragen]  
-T-8 = acht Wochen vor Landung: [Datum eintragen]
+Einzug (Landung): offen (Flug noch nicht gebucht); Content-Ziel „ab November 2026“  
+T-8 = acht Wochen vor Landung: offen — setzen, sobald Landungsdatum feststeht; bis dahin Phase 1 (Wärme)
 
 ---
 
@@ -64,4 +64,4 @@ Takt:
 ## Verify
 
 - Phase-0-Checkboxen erledigt, bevor Phase 1 startet.
-- Landungsdatum und T-8 oben ausgefüllt.
+- Landungsdatum und T-8: bewusst offen, bis Flug gebucht; danach nachtragen.

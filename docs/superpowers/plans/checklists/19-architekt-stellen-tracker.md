@@ -15,6 +15,8 @@ Ziel: 8–12 Zeilen `kandidat` oder `nein` (mit Grund); davon 3–5 `beworben`.
 | Datum | Quelle | Arbeitgeber | Stelle | ID/URL | München/Hybrid? | Architektur? | Status | Nächster Schritt |
 |---|---|---|---|---|---|---|---|---|
 
+Human-Schritt ausstehend: 8–12 Live-Stellen und 3–5 Bewerbungen; Tabelle absichtlich leer.
+
 ## Suchqueries (copy)
 
 LinkedIn: `Cloud Architect` OR `Platform Architect` OR `Solutions Architect` München Hybrid

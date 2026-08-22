@@ -19,3 +19,5 @@ Cloud- und Platform-Architekt: Entwurf und Umsetzung — Kubernetes in Skala und
 1. Headline ersetzen.
 2. Open-to-Work: Cloud Architect, Platform Architect, Solutions Architect; Standort München + Hybrid; Startdatum Ende 2026.
 3. Nicht: DevOps Engineer, Kubernetes Administrator als Titel.
+
+Gesetzt: [Datum]

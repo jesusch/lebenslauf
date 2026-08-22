@@ -1,3 +1,5 @@
+> Nicht Master. Nicht für neue Bewerbungen. Master: `Lebenslauf_Bjorn_Boschman_DE.md` (Spec 2026-08-22).
+
 Björn Boschman  
 São Paulo (Umzug Großraum München)  
 +49 175 8533351  

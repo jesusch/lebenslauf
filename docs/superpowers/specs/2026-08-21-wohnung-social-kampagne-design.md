@@ -12,7 +12,7 @@ Person: Björn Boschman (deutscher Staatsbürger, solo, São Paulo → München 
 
 - Aus Brasilien vorwärmen, dann vor Ort intensivieren.
 - Ein Content-Set, das **Netzwerk teilt** und in **Wohnungsgruppen** funktioniert.
-- 2 Zimmer, allein, langfristig; **nur Stadt München (kein Umland)**; Budget **nicht** öffentlich.
+- 2 Zimmer, für dich, langfristig; **in München (Stadtgebiet)**; Budget **nicht** öffentlich.
 - Pin + Hero-Reel live; Mappe für DMs bereit; ab T-8 sichtbarer Rhythmus ohne Spam-Flags.
 
 ## 3. Nicht-Ziele
@@ -28,8 +28,8 @@ Person: Björn Boschman (deutscher Staatsbürger, solo, São Paulo → München 
 
 | Thema | Festlegung |
 |---|---|
-| Wohnform | 2-Zimmer-Wohnung, allein (keine WG in Posts) |
-| Lage | ausschließlich Stadt München — kein Umland |
+| Wohnform | 2-Zimmer-Wohnung für eine Person (öffentlich: „2 Zimmer in München“, nicht Checklisten-Ton) |
+| Lage | München Stadtgebiet — kein Umland (öffentlich nicht so formulieren) |
 | Budget öffentlich | unsichtbar; privat verhandeln |
 | Accounts | bestehende private IG + FB |
 | Produktion | selbst filmen; AI schreibt Texte; CapCut schneidet + DE-Untertitel eingebrannt |
@@ -55,15 +55,15 @@ Fünf Videos, eine Drehsession:
 
 | Stück | Länge | Job |
 |---|---|---|
-| Hero | 30–45 s | Wer, warum München, 2 Zimmer allein, langfristig, CTA teilen |
-| Suchprofil | ~20 s | Nur Stadt München (kein Umland), lang, allein, Haustiere/Rauchen ehrlich |
-| Guter Mieter | ~20 s | ruhig, pfleglich, Referenzen auf Anfrage |
+| Hero | 30–45 s | Wer, warum München, 2 Zimmer in München, CTA teilen |
+| Suchprofil | ~20 s | in München, langfristig, für dich, Haustiere/Rauchen ehrlich |
+| Über euch | ~20 s | Hook Netzwerk: Tipps, Intros, Teilen — kein Mieter-Werbespot |
 | So hilft ihr | ~15 s | Teilen, Intro, Gruppen-OK |
 | Nicht ImmoScout | ~20 s | warum persönlich — ohne Vermieter-Bashing |
 
 Erste Kommentarzeile unter jedem Reel:
 
-`München · 2 Zimmer · allein · langfristig · ab [Monat] · DM`
+`2 Zimmer in München · ab [Monat] · DM`
 
 Captions in zwei Längen: Netzwerk (wärmer) und Gruppe (kürzer, regelkonform).
 
@@ -83,7 +83,7 @@ Anti-Spam: nicht denselben Text in 20 Gruppen am selben Tag; Regeln lesen; keine
 - Kein öffentliches Budget, kein Midi-Job, keine Dividende im öffentlichen Content.
 - Kein AI-Avatar.
 - Langfristigen Mietvertrag erst nach Landungs-/KV-Logik des Umzugsplans (Anmeldung → Kasse → …).
-- Nur Stadt München — kein Umland, keine Vororte außerhalb der Stadtgrenze. Bevorzugte Stadtteile mit Früh-ÖPNV (z. B. Giesing, Ramersdorf, Neuperlach, Laim, Pasing) in Suchprofil und Mappe, nicht als harte Filterliste im Reel.
+- München Stadtgebiet — öffentlich „in München“, intern kein Umland. Bevorzugte Stadtteile mit Früh-ÖPNV (z. B. Giesing, Ramersdorf, Neuperlach, Laim, Pasing) in Mappe, nicht als harte Filterliste im Reel.
 
 ## 9. Erfolg
 

@@ -7,8 +7,8 @@
 # Björn Boschman — Mietinteressent München
 
 **Einzug:** ab November 2026 (genauer Termin nach Flugbuchung)  
-**Gesucht:** 2-Zimmer-Wohnung, allein (Haushaltsgröße 1), langfristig  
-**Lage:** ausschließlich Stadt München (kein Umland, keine Vororte außerhalb der Stadtgrenze). Beispiele Stadtteile: Giesing, Ramersdorf, Neuperlach, Laim, Pasing — andere Stadtteile ok, solange in der Stadt  
+**Gesucht:** 2-Zimmer-Wohnung in München, eine Person  
+**Lage:** München Stadtgebiet (nicht Vororte / Umland). Beispiele: Giesing, Ramersdorf, Neuperlach, Laim, Pasing — andere Stadtteile ok  
 **Haustiere / Rauchen:** kein Haustier; Rauchen nur auf dem Balkon  
 **Beruf / Einkommen:** auf Anfrage (Unterlagen, Nachweise, Referenzen)  
 **SCHUFA / Bonität:** auf Anfrage  
@@ -20,7 +20,7 @@ E-Mail: bjoern@boschman.de
 Instagram: @bjornboschman  
 Facebook: bjoern.boschman  
 
-Kurz: Zurückkehrender Münchner, ruhig, pfleglich, langfristig orientiert. Besichtigung nach Absprache; vor langfristigem Vertrag: Anmeldung und Versicherungen nach meinem Umzugsplan.
+Kurz: Zurückkehrender Münchner. Besichtigung nach Absprache; vor unbefristetem Vertrag: Anmeldung und Versicherungen nach meinem Umzugsplan.
 
 ---
 
@@ -38,5 +38,5 @@ Kurz: Zurückkehrender Münchner, ruhig, pfleglich, langfristig orientiert. Besi
 
 ## Verify
 
-- Eine Seite, Name + Einzug + 2 Zimmer allein + Kontakt stehen drauf.
+- Eine Seite, Name + Einzug + 2 Zimmer in München + Kontakt stehen drauf.
 - Kein öffentliches Budget, kein „Midi-Job“ in der Standardmappe.

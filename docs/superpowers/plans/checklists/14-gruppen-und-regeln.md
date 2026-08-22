@@ -36,7 +36,7 @@ Hinweis: Konkrete Gruppennamen selbst in Facebook suchen („Wohnung München“
 
 - [ ] Regeln ok für „Suche“
 - [ ] Video + Gruppen-Caption
-- [ ] Erster Kommentar: `München · 2 Zimmer · allein · langfristig · ab [Monat] · DM`
+- [ ] Erster Kommentar: `2 Zimmer in München · ab November · DM`
 - [ ] Datum in Tabelle oben eingetragen
 
 ## Verify

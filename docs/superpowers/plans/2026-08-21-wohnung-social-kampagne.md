@@ -10,7 +10,7 @@
 
 ## Global Constraints
 
-- 2 Zimmer, allein, langfristig; nur Stadt München (kein Umland); Budget nicht öffentlich.
+- 2 Zimmer in München, langfristig; Stadtgebiet (öffentlich nicht „kein Umland“); Budget nicht öffentlich.
 - Bestehende Accounts; selbst filmen; CapCut DE-Untertitel eingebrannt; kein EN/PT im Video.
 - Kein AI-Avatar, kein Predis/Fliki/HeyGen/Poppify-Autopost in Gruppen.
 - Kein Midi-Job / Dividende / €-Limit in Bio, Reel, Pin oder Standard-Mappe.
@@ -59,7 +59,7 @@ Erwartet: acht Pfade, Exit 0.
 - [ ] **Step 2: Inhalt-Spotcheck**
 
 In Spec stehen wörtlich: „2-Zimmer“, „eingebrannt“, „kein AI-Avatar“.  
-In `12` steht die Kommentarzeile `München · 2 Zimmer · allein · langfristig`.  
+In `12` steht die Kommentarzeile `2 Zimmer in München · ab November`.  
 In `16` steht Export `1080 × 1920`.
 
 - [ ] **Step 3: Commit** (falls noch uncommitted)
@@ -104,7 +104,7 @@ git commit -m "Add Munich housing social campaign kit and calendar."
 
 - [ ] **Step 1:** Vor dem Dreh-Checkliste in `11` abhaken.
 
-- [ ] **Step 2:** Fünf Stücke je 2–3 Takes (Hero, Suchprofil, Guter Mieter, So hilft ihr, Nicht ImmoScout).
+- [ ] **Step 2:** Fünf Stücke je 2–3 Takes (Hero, Suchprofil, Über euch, So hilft ihr, Nicht ImmoScout).
 
 - [ ] **Step 3:** 8–10 Fotos laut `11`.
 

@@ -1,15 +1,16 @@
 # Reels — Skripte + Captions (DE)
 
 Einzug im Content: **ab November** (Jahr 2026; genauer Flug noch offen — Formulierungen bewusst flexibel).  
-Sprache: Deutsch. Kurze Sätze — für CapCut-Untertitel und laut Lesen.  
+Sprache: Deutsch, natürlich — nicht Checklisten-Ton („allein“, „kein Umland“).  
+Fakten bleiben intern: 2 Zimmer, eine Person, in München (Stadt), gerne länger bleiben — öffentlich einfach sagen.  
 Kein Budget, kein Midi-Job, keine Dividende im gesprochenen Text.
 
-Haustiere / Rauchen (gesprochen + Gruppen-Caption): **kein Haustier · Rauchen nur auf dem Balkon**
+Haustiere / Rauchen (gesprochen + wo nötig in Captions): **kein Haustier · Rauchen nur auf dem Balkon**
 
 Erste Kommentarzeile (unter **jedem** Reel posten):
 
 ```
-München · 2 Zimmer · allein · langfristig · ab November · DM
+2 Zimmer in München · ab November · DM
 ```
 
 ---
@@ -21,8 +22,8 @@ München · 2 Zimmer · allein · langfristig · ab November · DM
 ```
 Hi, ich bin Björn.
 Ich komme ab November zurück nach München.
-Ich suche eine 2-Zimmer-Wohnung — allein, langfristig.
-Kein WG-Zimmer, eine eigene Wohnung.
+Ich suche eine 2-Zimmer-Wohnung in München.
+Keine WG — eine eigene Wohnung.
 Wenn ihr jemanden kennt, der vermietet oder frei wird:
 teilt das bitte, oder schreibt mir.
 Danke.
@@ -31,7 +32,7 @@ Danke.
 **Caption — Netzwerk:**
 
 ```
-Ich komme ab November zurück nach München und suche eine 2-Zimmer-Wohnung — allein, langfristig.
+Ich komme ab November zurück nach München und suche eine 2-Zimmer-Wohnung.
 
 Wenn ihr jemanden kennt oder das teilen könnt: sehr gerne. DM offen.
 ```
@@ -39,7 +40,7 @@ Wenn ihr jemanden kennt oder das teilen könnt: sehr gerne. DM offen.
 **Caption — Gruppe:**
 
 ```
-Suche ab November: 2 Zimmer München, allein, langfristig.
+Suche ab November: 2 Zimmer in München.
 Bitte nur ernst gemeinte Hinweise / Angebote. DM.
 ```
 
@@ -50,52 +51,51 @@ Bitte nur ernst gemeinte Hinweise / Angebote. DM.
 **Skript:**
 
 ```
-Kurz das Profil:
-2 Zimmer, allein, langfristig.
-Nur in der Stadt München — kein Umland.
+Kurz was ich suche:
+eine 2-Zimmer-Wohnung in München.
 Kein Haustier. Rauchen nur auf dem Balkon.
-Ich bin ruhig und pfleglich.
 Details und Referenzen per DM.
 ```
 
 **Caption — Netzwerk:**
 
 ```
-Was ich suche: 2 Zimmer, allein, langfristig, nur Stadt München (kein Umland).
+Was ich suche: 2 Zimmer, in München.
 Kein Haustier, Rauchen nur Balkon. Mehr in der DM / Mappe auf Anfrage. Teilen hilft.
 ```
 
 **Caption — Gruppe:**
 
 ```
-2 Zimmer · allein · langfristig · ab November
-Nur Stadt München — kein Umland. Kein Haustier, Rauchen nur Balkon. DM.
+2 Zimmer in München · ab November
+Kein Haustier, Rauchen nur Balkon. DM.
 ```
 
 ---
 
-## 3. Guter Mieter (~20 s)
+## 3. Über euch (~20 s)
 
 **Skript:**
 
 ```
-Als Mieter:
-Ich zahle pünktlich, halte die Wohnung in Ordnung, und bleibe gerne lange.
-Referenzen und Unterlagen schicke ich auf Anfrage.
-Kein Drama, kein Partykeller.
+In München kommt eine Wohnung oft über Leute, nicht über Formulare.
+Deshalb poste ich das hier — bei euch.
+Wenn jemand bei euch frei wird oder ihr jemanden kennt:
+schreibt mir oder stellt uns kurz vor.
+Mehr braucht’s nicht.
 ```
 
 **Caption — Netzwerk:**
 
 ```
-Für Vermieter und Freunde, die vermitteln: ich bin auf langfristig und ruhig ausgelegt.
-Mappe / Referenzen per DM.
+Das läuft über euch: Teilen, Tipps, kurze Intros.
+DM offen.
 ```
 
 **Caption — Gruppe:**
 
 ```
-Langfristig, allein, zuverlässig. Unterlagen auf Anfrage. DM.
+2 Zimmer in München ab November — Tipps und Intros willkommen. DM.
 ```
 
 ---
@@ -121,7 +121,7 @@ Teilen, Intro, oder kurzer Tipp — alles hilft. Danke.
 **Caption — Gruppe:**
 
 ```
-Suche 2 Zimmer München ab November, allein. Tipps / Angebote per DM. Bitte teilen.
+Suche 2 Zimmer in München ab November. Tipps / Angebote per DM. Bitte teilen.
 ```
 
 ---
@@ -147,7 +147,7 @@ Netzwerk vor Formularflut. Wenn ihr einen Hinweis habt: DM.
 **Caption — Gruppe:**
 
 ```
-2 Zimmer München, allein, ab November. Lieber DM als Massenbewerbung. Danke.
+2 Zimmer in München ab November. Lieber DM als Massenbewerbung. Danke.
 ```
 
 ---
@@ -155,5 +155,5 @@ Netzwerk vor Formularflut. Wenn ihr einen Hinweis habt: DM.
 ## Verify
 
 - Alle fünf Skripte ohne €-Betrag und ohne Job-/Dividenden-Story.
+- Kein Checklisten-Ton („allein“, „für mich“, „langfristig“, „kein Umland“) in Captions/Skripten.
 - Netzwerk- und Gruppen-Caption für jedes Stück vorhanden.
-- Monat und Haustiere/Rauchen sind konkret (kein `[…]`-Platzhalter mehr).

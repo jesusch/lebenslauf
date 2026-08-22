@@ -24,7 +24,7 @@ Stack laut Spec: selbst filmen → CapCut (Schnitt + **DE-Untertitel eingebrannt
 7. [ ] Export 1080×1920, Dateiname z. B. `hero-muenchen.mp4`.
 8. [ ] Auf dem Handy stumm ansehen — Text muss ohne Ton verständlich sein.
 
-Wiederholen für: Hero, Suchprofil, Guter Mieter, So hilft ihr, Nicht ImmoScout.
+Wiederholen für: Hero, Suchprofil, Über euch, So hilft ihr, Nicht ImmoScout.
 
 ## Canva — Statics
 

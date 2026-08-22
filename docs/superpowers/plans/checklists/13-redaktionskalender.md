@@ -24,7 +24,7 @@ Takt:
 
 | Kanal | Frequenz |
 |---|---|
-| Instagram Reel | 1× / 2 Wochen (Reihenfolge: Hero → Suchprofil → Guter Mieter → So hilft ihr → Nicht ImmoScout, dann wiederholen / Varianten) |
+| Instagram Reel | 1× / 2 Wochen (Reihenfolge: Hero → Suchprofil → Über euch → So hilft ihr → Nicht ImmoScout, dann wiederholen / Varianten) |
 | Instagram Stories | 2× / Woche (kurze Reminder, Poll „kennt jemand was?“, Behind-the-scenes) |
 | Facebook Feed | 1× / Monat |
 | Facebook-Gruppen | 1× / Gruppe / Monat (siehe `14`) |

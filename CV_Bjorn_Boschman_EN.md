@@ -1,43 +1,46 @@
 # Björn Boschman
 
-**CTO & Founder | Cloud Architect | Applied AI**  
-São Paulo, Brazil · +49 175 8533351 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)
+**Cloud & Platform Architect | Kubernetes · AWS Serverless · Applied AI**  
+São Paulo (relocating to greater Munich, hybrid) · German citizen  
++49 175 8533351 · bjoern@boschman.de · [linkedin.com/in/bboschman](https://www.linkedin.com/in/bboschman/)  
+Willing to undergo German security clearance (SÜ)
 
 ---
 
 ## Profile
 
-CTO and Founder of adm.doctor S.A., shipping production LLM features (Google Gemini) for document understanding and structured extraction on a live AWS healthcare-payments platform with hundreds of paying customers. Previously Cloud Architect at Innovid (AdTech) through late 2025 — Kubernetes peaking at ~1000 nodes and FinOps including ~USD 30k/month lasting S3 savings. Strengths: applied GenAI in product, multi-account AWS, serverless APIs, data pipelines, and production reliability for fintech and high-traffic systems. German native; English C1; based in São Paulo with work history across Germany, the UK, and Brazil.
+Cloud and platform architect: design and implementation — Kubernetes at scale and serverless microservices on AWS, chosen by fit and cost. At Innovid, architecture plus full implementation (peak ~1000 nodes, FastAPI/Lambda, pipelines, FinOps including ~USD 30k/month lasting S3 savings). As CTO and founder of adm.doctor, the same approach as a product platform (Cognito, event-driven services, multi-account, production LLM features); Kubernetes deliberately omitted because it does not fit the product and would be too expensive. German native; English C1; relocating to greater Munich (hybrid) by end of 2026.
 
 ## Core skills
 
-- **AI / LLM:** Google Gemini API (incl. Gemini 2.5 Flash); prompt engineering; structured outputs; document/PDF understanding; information extraction; LLM classification with heuristic fallbacks; production error/quota handling on serverless
-- **Cloud & FinOps:** Amazon Web Services (multi-account, VPC, EC2, S3, Lambda, Cognito, EventBridge), cost optimization; Azure (adopted)
-- **Platforms:** Kubernetes at scale, serverless (FastAPI + Lambda), Linux
-- **Data:** Spark, dbt, Argo, S3 data lakes, DynamoDB
+- **Kubernetes & platform:** Architecture and implementation at scale (peak ~1000 nodes), self-built pipeline orchestrator, Linux
+- **Cloud & serverless:** Amazon Web Services (multi-account, VPC, EC2, S3, Lambda, API Gateway, Cognito, EventBridge), FastAPI on Lambda; Azure (adopted)
+- **FinOps:** Cost and capacity control; K8s vs serverless chosen by fit and cost
+- **AI / LLM:** Google Gemini (structured outputs, document extraction); Amazon Bedrock; production error/quota handling
+- **Data:** Spark, dbt, Argo, S3 data lakes, DynamoDB; OSS: pydynox (async DynamoDB ORM, Rust core)
 - **IaC & delivery:** Pulumi, Ansible, Puppet (legacy), CI/CD (GitLab, TeamCity, Jenkins, GitHub Actions)
 - **Observability:** Prometheus, Grafana, CloudWatch, SIEM, ops alerting
+- **Ways of working:** Scrum; technical lead of a small engineering team
 
 ## Professional experience
 
 ### CTO & Founder — adm.doctor S.A.
 **06/2023 – present** · São Paulo · Fintech / healthcare payments
 
-- Founded the company and own product roadmap (including AI features), delivery, and AWS/cloud budget for a multi-service platform serving hundreds of paying medical customers (e-invoicing, instant payments, digital wallets, contracts).
-- Led an engineering team of 3; designed and built the central billing and payments API from scratch (FastAPI on AWS Lambda, DynamoDB, Cognito, S3, EventBridge), starting mid-2023.
-- Designed a production PDF→structured-invoice pipeline on Google Gemini using prompted structured outputs to turn medical documents into actionable billing data.
-- Built hybrid domain classification (deterministic heuristics first, Gemini fallback) and free-text extraction of procedure teams — with quota-safe failures so invoice flows stay reliable when the model is unavailable.
-- Built supporting services (document/file processing, bank/provider integrations, messaging), infrastructure as code (Pulumi), and web/mobile clients into one product platform.
-- Rolled out multi-account environments (dev/int/stg/prd) with release gates and live end-to-end checks for money-critical paths.
-- Hardened production payout and reconciliation flows (ops visibility, retry tooling, integrity checks) in a regulated fintech context.
+- Own product roadmap, delivery, and AWS/cloud budget for a multi-service platform serving hundreds of paying medical customers (e-invoicing, instant payments, digital wallets). Kubernetes deliberately not used — it does not fit the product and would be too expensive (same FinOps logic as at Innovid).
+- Led an engineering team of 3; designed and built the central billing and payments API (FastAPI on AWS Lambda, DynamoDB, Cognito, S3, EventBridge), starting mid-2023.
+- Multi-account environment topology (dev/int/stg/prd) with release gates and live end-to-end checks for money-critical paths.
+- Supporting services (document/file processing, bank/provider integrations, messaging), infrastructure as code (Pulumi), web and mobile clients.
+- Production PDF→structured-invoice pipeline on Google Gemini (structured outputs) and hybrid classification (heuristics first, model fallback) with quota-safe failures.
+- Hardened production payout and reconciliation flows (ops visibility, retry, integrity checks) in a regulated fintech context.
 
 ### Cloud Architect — Innovid
 **08/2018 – 11/2025** · Munich / Edinburgh / São Paulo · Advertising technology
 
-- Operated multi-account AWS and Kubernetes peaking at ~1000 nodes for a self-built pipeline orchestrator (scale varies with workload); chose a custom orchestrator over off-the-shelf tools for cost/scale control and customer requirements.
-- Delivered serverless micro-APIs (FastAPI + Lambda) for product teams; ran data pipelines (Spark, Argo, dbt) with CI/CD (GitLab, TeamCity).
-- FinOps: ~USD 30k/month lasting savings from S3 optimizations; ongoing rightsizing of instances and Spark jobs as the product grew.
-- Integrated monitoring and alerting (Prometheus, Grafana, CloudWatch, SIEM).
+- Designed and fully implemented multi-account AWS and Kubernetes (peak ~1000 nodes) for a self-built pipeline orchestrator — scale with workload, deliberately not off-the-shelf orchestration (cost, scale, customer requirements).
+- Designed and built serverless micro-APIs (FastAPI + Lambda) for product teams; data pipelines (Spark, Argo, dbt) with CI/CD (GitLab, TeamCity).
+- FinOps: ~USD 30k/month lasting savings from S3 optimizations; rightsizing of instances and Spark jobs.
+- Observability (Prometheus, Grafana, CloudWatch, SIEM) as part of the platform, not an afterthought.
 
 ### Cloud Architect — draglet GmbH
 **03/2017 – 07/2018** · Munich · Crypto exchange
@@ -50,8 +53,8 @@ CTO and Founder of adm.doctor S.A., shipping production LLM features (Google Gem
 **05/2016 – 02/2017** · Munich · Financial services
 
 - Ansible-based integration of core systems; adopted Microsoft Azure services.
-- Scaled infrastructure roughly 2× within six months (vSphere); delivered HA setups (Keepalived) and MySQL Galera migration.
-- Implemented SAML SSO, G Suite migration, and Jenkins/Nexus CI/CD.
+- Scaled infrastructure roughly 2× within six months (vSphere); HA (Keepalived) and MySQL Galera migration.
+- SAML SSO, G Suite migration, and Jenkins/Nexus CI/CD.
 
 ### Lead Infrastructure DevOps — smartblue AG
 **08/2014 – 04/2016** · Munich · Solar monitoring
@@ -66,7 +69,7 @@ CTO and Founder of adm.doctor S.A., shipping production LLM features (Google Gem
 - MySQL DBA (multi-tier replication, Galera); Scrum Master and release-process ownership.
 
 ### Earlier career
-**2004 – 2008** · GFU for Siemens AG / Nokia Siemens Networks · Mobile communications  
+**2004 – 2008** · GFU for Siemens AG / Nokia Siemens Networks · Mobile communications
 
 System integration, system test leadership, release/test management, and platform work for DVB-H / MobileTV — including international setup and training (Lisbon).
 

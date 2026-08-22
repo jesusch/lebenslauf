@@ -1,3 +1,5 @@
+> Nicht Master. Nicht für neue Bewerbungen. Master: `Lebenslauf_Bjorn_Boschman_DE.md` (Spec 2026-08-22).
+
 # Björn Boschman
 
 **Cloud- / Platform-Architekt | Kubernetes & DevSecOps**  
